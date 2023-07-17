@@ -1,0 +1,9 @@
+FACTURA 1
+Fecha: 10/07/23
+Hora: 12:00
+Nombre: Juan Mendoza
+Equipo: Asus
+Descripción: equipo lento, necesita mantenimiento.
+Orden 1: Mantenimiento preventivo: $50.00 x 1
+Orden 2: Revisión general: $30.00 x 1
+Total de la factura: $80.00
